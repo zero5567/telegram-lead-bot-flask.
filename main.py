@@ -1,2 +1,2 @@
-TOKEN = "8836145878:AAFcLfWy_gukFK2DMk4xN8h0xDsIaFAA95U"
-ADMIN_ID = 1467608859  # Replace with your Telegram ID
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+ADMIN_ID = 123456789  # Replace with your Telegram ID
